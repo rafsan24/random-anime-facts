@@ -8,8 +8,6 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
-Please make sure you have completed the soot survey at:
-    [soot.binghamton.edu](https://soot.binghamton.edu)
 
 Please list the urls for the APIs you used:
 * https://anime-facts-rest-api.herokuapp.com/api/v1/demon_slayer
@@ -20,9 +18,6 @@ Please list the urls for the APIs you used:
 
 Summary of Program:
 * My program reads data from APIs which have a list of facts for different animes. From these APIs, I ask the user to choose which anime they would like to read a random fact about and print it in the terminal.
-
-Most Challenging topic in the course:
-* The introduction of classes was very challenging for me. This is because from coding in global space to structuring classes was something I was not comfortable with until I kept practicing.
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
  < None >
